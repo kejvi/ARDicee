@@ -1,5 +1,5 @@
 
-ARDicee is a AR iOS app which allows you to set multiple dice on a AR plane and roll them.
+ARDicee is an AR iOS app that allows you to set multiple dice on an AR plane and roll them.
 
 To add a 🎲 on the plane simply tap 👆🏻 on the plane that shows up on the screen.
 
